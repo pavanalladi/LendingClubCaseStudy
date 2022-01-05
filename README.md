@@ -17,6 +17,7 @@ There are two files commited which are as below
 - The purpose ofthe loan is a key factor for defaulting 
 - Lower the annual income more people tend to default
 - Loan payment term - the longer the durration, moreis the chances of defaulting
+- The loan application count has increased steadily which indicates that defaulters will also increase 
 
 ## Technologies Used
 * pandas
