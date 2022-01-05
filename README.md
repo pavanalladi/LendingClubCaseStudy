@@ -14,10 +14,9 @@ There are two files commited which are as below
 * PavanKumarA.ppt -> Details the Analysis done
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The purpose ofthe loan is a key factor for defaulting 
+- Lower the annual income more people tend to default
+- Loan payment term - the longer the durration, moreis the chances of defaulting
 
 ## Technologies Used
 * pandas
