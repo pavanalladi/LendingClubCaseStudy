@@ -14,10 +14,10 @@ There are two files commited which are as below
 * PavanKumarA.ppt -> Details the Analysis done
 
 ## Conclusions
-Business Goals:
-- Temperature could be a prime factor for making decision for the Organisation
-- We can see demand for bikes was more in 2019 than 2018
-- Working days as they have good influence on bike rentals. So it would be great to provide offers to the working individuals
+- The purpose ofthe loan is a key factor for defaulting 
+- Lower the annual income more people tend to default
+- Loan payment term - the longer the durration, moreis the chances of defaulting
+- The loan application count has increased steadily which indicates that defaulters will also increase 
 
 ## Technologies Used
 * pandas
@@ -25,9 +25,9 @@ Business Goals:
 * seaborn
 * matplotlib.pyplot
 * warnings
-* statsmodels
-* sklearn
 
 ## Contact
 Created by [@pavanalladi] - feel free to contact me!
+
+
 
